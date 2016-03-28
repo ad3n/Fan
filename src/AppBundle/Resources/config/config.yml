@@ -33,8 +33,8 @@ symfonyid_core:
         cache_lifetime: 5
 
 symfonyid_admin:
-    app_title: 'KIAFA'
-    app_short_title: 'KIA'
+    app_title: 'FANFA'
+    app_short_title: 'FAN'
     per_page: 9
     identifier: 'id'
     date_time_format: 'd-m-Y' #php date time format
